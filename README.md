@@ -18,4 +18,4 @@ There are four main types of mods included within this modpack:
                       
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/GamingWubba93/The-Moon-Adventure-Pack/blob/master/LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/GamingWubba93/Ultimate-Prison-Architect-Modpack/blob/master/LICENSE) file for details.
