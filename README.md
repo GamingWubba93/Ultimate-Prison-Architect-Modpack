@@ -17,8 +17,8 @@ There are four main types of mods included within this modpack:
 
 ## Contributing
 
-Please read [CONTRIBUTING.md](https://github.com/GamingWubba93/The-Moon-Adventure-Pack/blob/master/CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us. If you find a problem, incorrect file, obsolete or improper mod or such, please notify me about it https://github.com/GamingWubba93/Ultimate-Prison-Architect-Modpack/issues or at http://steamcommunity.com/sharedfiles/filedetails/?id=870731750
-                      
+Please read [CONTRIBUTING.md](https://github.com/GamingWubba93/Ultimate-Prison-Architect-Modpack/blob/master/CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us. If you find a problem, incorrect file, obsolete or improper mod or such, please notify me about it.
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](https://github.com/GamingWubba93/Ultimate-Prison-Architect-Modpack/blob/master/LICENSE) file for details.
